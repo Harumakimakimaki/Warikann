@@ -1,2 +1,1 @@
-# my-2nd-repo
- test
+# warikann-apps
